@@ -13,7 +13,7 @@ MessageHandler, filters, ContextTypes, ConversationHandler
 
 # ==================== SOZLAMALAR ====================
 
-BOT_TOKEN = “8736208200:AAG82T-nU8qN4eDjd2yzf3PL50r8Duxfpk8”
+BOT_TOKEN = "8736208200:AAG82T-nU8qN4eDjd2yzf3PL50r8Duxfpk8"
 ADMIN_ID = 565876427
 
 # ==================== HOLAT KONSTANTALARI ====================
